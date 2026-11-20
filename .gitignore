@@ -1,0 +1,30 @@
+# Xcode user state
+xcuserdata/
+*.xcuserstate
+
+# Build products
+DerivedData/
+build/
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcarchive
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# Local signing settings
+Config/Developer.xcconfig
+
+# Local agent instructions, tool settings, and internal documents
+AGENTS.local.md
+CLAUDE.local.md
+.claude/
+.codex/
+.agents/
+.mcv-request.md
+ops/

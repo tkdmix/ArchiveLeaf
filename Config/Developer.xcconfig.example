@@ -1,0 +1,5 @@
+// Copy this file to Developer.xcconfig (ignored by Git) and set your Apple
+// Developer team ID. It is the ten-character ID shown in the Membership details
+// of your Apple Developer account.
+
+DEVELOPMENT_TEAM = YOUR_TEAM_ID

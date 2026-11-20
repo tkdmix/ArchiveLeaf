@@ -1,0 +1,2836 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "A tag is added to a file from the file itself. Tags you add appear here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグはファイル側から付けます。付けたタグがここに並びます。"
+          }
+        }
+      }
+    },
+    "Actual Size": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "実際のサイズ"
+          }
+        }
+      }
+    },
+    "Add": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "追加"
+          }
+        }
+      }
+    },
+    "Add to Favorites": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入りに追加"
+          }
+        }
+      }
+    },
+    "Added %lld items.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld件を追加しました。"
+          }
+        }
+      }
+    },
+    "Added %lld items. %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld件を追加しました。%@"
+          }
+        }
+      }
+    },
+    "Added to ArchiveLeaf": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ArchiveLeafに追加しました"
+          }
+        }
+      }
+    },
+    "Adding %lld of %lld…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld / %lld 件を追加中…"
+          }
+        }
+      }
+    },
+    "Adding was cancelled.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "追加を中止しました。"
+          }
+        }
+      }
+    },
+    "Archive": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブ"
+          }
+        }
+      }
+    },
+    "Archive Could Not Be Loaded": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブを読み込めませんでした"
+          }
+        }
+      }
+    },
+    "Archive Deletion": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブの削除"
+          }
+        }
+      }
+    },
+    "Archive Is Empty": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブは空です"
+          }
+        }
+      }
+    },
+    "Archive Operation Failed": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブ操作に失敗しました"
+          }
+        }
+      }
+    },
+    "Archive — expand it first": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "圧縮ファイル — 先に展開してください"
+          }
+        }
+      }
+    },
+    "ArchiveLeaf": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ArchiveLeaf"
+          }
+        }
+      }
+    },
+    "ArchiveLeaf does not open archives. Expand it first, then import the resulting folder.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ArchiveLeafは圧縮ファイルを展開しません。先に展開してから、できたフォルダを取り込んでください。"
+          }
+        }
+      }
+    },
+    "Automatic (%@)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自動（%@）"
+          }
+        }
+      }
+    },
+    "Back": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "戻る"
+          }
+        }
+      }
+    },
+    "Back to Document": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文書に戻る"
+          }
+        }
+      }
+    },
+    "Backup": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップ"
+          }
+        }
+      }
+    },
+    "Backup could not be opened: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップを開けませんでした：%@"
+          }
+        }
+      }
+    },
+    "Backup export stopped: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップの書き出しを停止しました：%@"
+          }
+        }
+      }
+    },
+    "Backup exported.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップを書き出しました。"
+          }
+        }
+      }
+    },
+    "Backup stopped: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップを停止しました：%@"
+          }
+        }
+      }
+    },
+    "Bookmark": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブックマーク"
+          }
+        }
+      }
+    },
+    "Bookmark Could Not Be Added": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブックマークを追加できませんでした"
+          }
+        }
+      }
+    },
+    "CSV": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV"
+          }
+        }
+      }
+    },
+    "Cache": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャッシュ"
+          }
+        }
+      }
+    },
+    "Cache clearing stopped: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャッシュの消去を中止しました: %@"
+          }
+        }
+      }
+    },
+    "Cached files are disposable. Clearing them does not delete anything from iCloud.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャッシュファイルは再作成できます。消去してもiCloud上のデータは削除されません。"
+          }
+        }
+      }
+    },
+    "Calculating…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "計算中…"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャンセル"
+          }
+        }
+      }
+    },
+    "Choose a new file ending in .albak.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拡張子が .albak の新しいファイルを指定してください。"
+          }
+        }
+      }
+    },
+    "Clear Cache": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャッシュを消去"
+          }
+        }
+      }
+    },
+    "Clear Cache…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キャッシュを消去…"
+          }
+        }
+      }
+    },
+    "Clear Local Cache?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルキャッシュを消去しますか？"
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "閉じる"
+          }
+        }
+      }
+    },
+    "Cloud storage": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "クラウドストレージ"
+          }
+        }
+      }
+    },
+    "Collapse": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "閉じる"
+          }
+        }
+      }
+    },
+    "Content Could Not Be Loaded": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内容を読み込めませんでした"
+          }
+        }
+      }
+    },
+    "Continue…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "続ける…"
+          }
+        }
+      }
+    },
+    "Could Not Select Files": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルを選択できませんでした"
+          }
+        }
+      }
+    },
+    "Could not read incomplete imports: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未完了の取り込みを読み取れませんでした: %@"
+          }
+        }
+      }
+    },
+    "Create": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "作成"
+          }
+        }
+      }
+    },
+    "Date": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日付"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除"
+          }
+        }
+      }
+    },
+    "Delete My Archive": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自分のアーカイブを削除"
+          }
+        }
+      }
+    },
+    "Delete My Archive?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自分のアーカイブを削除しますか？"
+          }
+        }
+      }
+    },
+    "Delete My Archive…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自分のアーカイブを削除…"
+          }
+        }
+      }
+    },
+    "Deleted %lld folders and %lld files.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld個のフォルダと%lld個のファイルを削除しました。"
+          }
+        }
+      }
+    },
+    "Deleting your archive…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブを削除中…"
+          }
+        }
+      }
+    },
+    "Delete Permanently": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完全に削除"
+          }
+        }
+      }
+    },
+    "Delete Tag": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグを削除"
+          }
+        }
+      }
+    },
+    "Delete This Tag?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このタグを削除しますか？"
+          }
+        }
+      }
+    },
+    "Delete Your Entire Archive?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブ全体を削除しますか？"
+          }
+        }
+      }
+    },
+    "Destination": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込み先"
+          }
+        }
+      }
+    },
+    "Dimensions": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "画像サイズ"
+          }
+        }
+      }
+    },
+    "Display Format Could Not Be Saved": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "表示形式を保存できませんでした"
+          }
+        }
+      }
+    },
+    "Display Name": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "表示名"
+          }
+        }
+      }
+    },
+    "Document Could Not Be Read": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書類を読み込めませんでした"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完了"
+          }
+        }
+      }
+    },
+    "Empty Trash": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱を空にする"
+          }
+        }
+      }
+    },
+    "Empty Trash?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱を空にしますか？"
+          }
+        }
+      }
+    },
+    "Empty Trash…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱を空にする…"
+          }
+        }
+      }
+    },
+    "Encoding": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字エンコーディング"
+          }
+        }
+      }
+    },
+    "Encoding Could Not Be Saved": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文字エンコーディングを保存できませんでした"
+          }
+        }
+      }
+    },
+    "Enter a complete HTTP or HTTPS URL.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "完全なHTTPまたはHTTPSのURLを入力してください。"
+          }
+        }
+      }
+    },
+    "Expand": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "開く"
+          }
+        }
+      }
+    },
+    "Export Backup…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップを書き出す…"
+          }
+        }
+      }
+    },
+    "Exports completed items outside Trash. Restore will require an empty Archive.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱以外の完了済み項目を書き出します。復元には空のアーカイブが必要です。"
+          }
+        }
+      }
+    },
+    "Favorite": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入り"
+          }
+        }
+      }
+    },
+    "Favorite Update Failed": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入りを更新できませんでした"
+          }
+        }
+      }
+    },
+    "Favorites": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入り"
+          }
+        }
+      }
+    },
+    "Favorites First": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入りを優先"
+          }
+        }
+      }
+    },
+    "File Format": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイル形式"
+          }
+        }
+      }
+    },
+    "File Not Found": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルが見つかりません"
+          }
+        }
+      }
+    },
+    "File Size": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルサイズ"
+          }
+        }
+      }
+    },
+    "File contents": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイル内容"
+          }
+        }
+      }
+    },
+    "File name": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイル名"
+          }
+        }
+      }
+    },
+    "Files": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイル"
+          }
+        }
+      }
+    },
+    "Files added to Favorites will appear here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入りに追加したファイルがここに表示されます。"
+          }
+        }
+      }
+    },
+    "Files can be downloaded from iCloud again when needed.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "必要になったファイルはiCloudから再度ダウンロードできます。"
+          }
+        }
+      }
+    },
+    "Files given this tag will appear here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このタグを付けたファイルがここに表示されます。"
+          }
+        }
+      }
+    },
+    "Files moved to Trash will appear here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱へ移動したファイルがここに表示されます。"
+          }
+        }
+      }
+    },
+    "Files that are not in a folder will appear here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダに入っていないファイルがここに表示されます。"
+          }
+        }
+      }
+    },
+    "Find": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "検索"
+          }
+        }
+      }
+    },
+    "Find in Document": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "文書内を検索"
+          }
+        }
+      }
+    },
+    "Fit": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ウインドウに合わせる"
+          }
+        }
+      }
+    },
+    "Fit Page": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ページ全体を表示"
+          }
+        }
+      }
+    },
+    "Fit Width": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "画面幅に合わせる"
+          }
+        }
+      }
+    },
+    "Folder Could Not Be Created": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダを作成できませんでした"
+          }
+        }
+      }
+    },
+    "Folder Is Empty": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダは空です"
+          }
+        }
+      }
+    },
+    "Folder Name": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダ名"
+          }
+        }
+      }
+    },
+    "Folder Not Found": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダが見つかりません"
+          }
+        }
+      }
+    },
+    "Folder details will appear here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダの詳細がここに表示されます。"
+          }
+        }
+      }
+    },
+    "Folders": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダ"
+          }
+        }
+      }
+    },
+    "Folders (%lld)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダ（%lld）"
+          }
+        }
+      }
+    },
+    "Format": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "形式"
+          }
+        }
+      }
+    },
+    "Forward": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "進む"
+          }
+        }
+      }
+    },
+    "Import": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込む"
+          }
+        }
+      }
+    },
+    "Import Failed": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込みに失敗しました"
+          }
+        }
+      }
+    },
+    "Import Files…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルを取り込む…"
+          }
+        }
+      }
+    },
+    "Import Into": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込み先"
+          }
+        }
+      }
+    },
+    "Import Preflight": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込み内容の確認"
+          }
+        }
+      }
+    },
+    "Imported": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込み済み"
+          }
+        }
+      }
+    },
+    "Imported (%lld)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込み済み（%lld）"
+          }
+        }
+      }
+    },
+    "Imported files will appear here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込んだファイルがここに表示されます。"
+          }
+        }
+      }
+    },
+    "Incomplete Imports": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未完了の取り込み"
+          }
+        }
+      }
+    },
+    "Info": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "情報"
+          }
+        }
+      }
+    },
+    "Interrupted or failed imports can leave hidden records in iCloud. Removing them never touches completed files or folders.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "中断または失敗した取り込みにより、iCloudに非表示のレコードが残る場合があります。削除しても完了済みのファイルやフォルダには影響しません。"
+          }
+        }
+      }
+    },
+    "Item Could Not Be Moved": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "項目を移動できませんでした"
+          }
+        }
+      }
+    },
+    "Item Could Not Be Renamed": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "項目名を変更できませんでした"
+          }
+        }
+      }
+    },
+    "JPEG": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JPEG"
+          }
+        }
+      }
+    },
+    "JSON": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JSON"
+          }
+        }
+      }
+    },
+    "Loading Archive…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブを読み込み中…"
+          }
+        }
+      }
+    },
+    "Loading…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "読み込み中…"
+          }
+        }
+      }
+    },
+    "Local Cache": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルキャッシュ"
+          }
+        }
+      }
+    },
+    "Local cache cleared.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ローカルキャッシュを消去しました。"
+          }
+        }
+      }
+    },
+    "Maximize Viewer": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ビューアを最大化"
+          }
+        }
+      }
+    },
+    "MPEG-4 Video": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MPEG-4ビデオ"
+          }
+        }
+      }
+    },
+    "Manual": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "手動"
+          }
+        }
+      }
+    },
+    "Markdown": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Markdown"
+          }
+        }
+      }
+    },
+    "Move": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移動"
+          }
+        }
+      }
+    },
+    "Move Down": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "下へ移動"
+          }
+        }
+      }
+    },
+    "Move Item": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "項目を移動"
+          }
+        }
+      }
+    },
+    "Move To": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移動先"
+          }
+        }
+      }
+    },
+    "Move To…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "移動…"
+          }
+        }
+      }
+    },
+    "Move Up": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "上へ移動"
+          }
+        }
+      }
+    },
+    "Move this item to Trash?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この項目をゴミ箱へ移動しますか？"
+          }
+        }
+      }
+    },
+    "Move to Trash": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱に入れる"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "名前"
+          }
+        }
+      }
+    },
+    "New": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新規"
+          }
+        }
+      }
+    },
+    "New Bookmark": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新規ブックマーク"
+          }
+        }
+      }
+    },
+    "New Folder": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新規フォルダ"
+          }
+        }
+      }
+    },
+    "New Folder Inside": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この中に新規フォルダ"
+          }
+        }
+      }
+    },
+    "New Tag": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新規タグ"
+          }
+        }
+      }
+    },
+    "New Tag…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "新規タグ…"
+          }
+        }
+      }
+    },
+    "No CloudKit archive is connected.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CloudKitアーカイブに接続されていません。"
+          }
+        }
+      }
+    },
+    "No Favorites": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入りはありません"
+          }
+        }
+      }
+    },
+    "No Files": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルがありません"
+          }
+        }
+      }
+    },
+    "No Selection": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "項目が選択されていません"
+          }
+        }
+      }
+    },
+    "No Tags": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグがありません"
+          }
+        }
+      }
+    },
+    "No incomplete imports were found.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未完了の取り込みは見つかりませんでした。"
+          }
+        }
+      }
+    },
+    "None of the shared items could be added.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有された項目を追加できませんでした。"
+          }
+        }
+      }
+    },
+    "None of the shared items could be read as a file.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有された項目をファイルとして読み取れませんでした。"
+          }
+        }
+      }
+    },
+    "Not Imported (%lld)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未取り込み（%lld）"
+          }
+        }
+      }
+    },
+    "Nothing Was Added": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "何も追加されませんでした"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OK"
+          }
+        }
+      }
+    },
+    "Offline Change Not Available": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "オフラインでは変更できません"
+          }
+        }
+      }
+    },
+    "Offline — showing the last downloaded archive. Changes are disabled.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "オフライン — 最後にダウンロードしたアーカイブを表示しています。変更操作はできません。"
+          }
+        }
+      }
+    },
+    "Open": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "開く"
+          }
+        }
+      }
+    },
+    "Open External Link?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "外部リンクを開きますか？"
+          }
+        }
+      }
+    },
+    "Open Page": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ページを開く"
+          }
+        }
+      }
+    },
+    "Open in Browser": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブラウザで開く"
+          }
+        }
+      }
+    },
+    "Original File Name": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "元のファイル名"
+          }
+        }
+      }
+    },
+    "Original Name": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "元の名前"
+          }
+        }
+      }
+    },
+    "PNG": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PNG"
+          }
+        }
+      }
+    },
+    "Page Couldn’t Be Loaded": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ページを読み込めませんでした"
+          }
+        }
+      }
+    },
+    "Parent": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "親フォルダ"
+          }
+        }
+      }
+    },
+    "Partly Added": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一部のみ追加しました"
+          }
+        }
+      }
+    },
+    "Permanently Delete This Item?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この項目を完全に削除しますか？"
+          }
+        }
+      }
+    },
+    "Permanently deletes all ArchiveLeaf records and assets from the Development private database.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Development環境のプライベートデータベースから、ArchiveLeafのすべてのレコードとアセットを完全に削除します。"
+          }
+        }
+      }
+    },
+    "Permanently deletes all of your ArchiveLeaf records and assets from iCloud Private Database.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloudプライベートデータベースから、ArchiveLeafのすべてのレコードとアセットを完全に削除します。"
+          }
+        }
+      }
+    },
+    "Plain Text": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プレーンテキスト"
+          }
+        }
+      }
+    },
+    "Preparing backup…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップを準備中…"
+          }
+        }
+      }
+    },
+    "Preparing…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "準備中…"
+          }
+        }
+      }
+    },
+    "Private Database": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プライベートデータベース"
+          }
+        }
+      }
+    },
+    "QuickTime Movie": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "QuickTimeムービー"
+          }
+        }
+      }
+    },
+    "Read-only": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "読み取り専用"
+          }
+        }
+      }
+    },
+    "Reading backup…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップを読み込み中…"
+          }
+        }
+      }
+    },
+    "Reload": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "再読み込み"
+          }
+        }
+      }
+    },
+    "Reload Archive": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "アーカイブを再読み込み"
+          }
+        }
+      }
+    },
+    "Removal stopped: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除を中止しました: %@"
+          }
+        }
+      }
+    },
+    "Remove": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除"
+          }
+        }
+      }
+    },
+    "Remove %lld Incomplete Imports?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld件の未完了取り込みを削除しますか？"
+          }
+        }
+      }
+    },
+    "Remove Incomplete Imports…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未完了の取り込みを削除…"
+          }
+        }
+      }
+    },
+    "Remove from Favorites": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入りから削除"
+          }
+        }
+      }
+    },
+    "Removed %lld incomplete imports.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld件の未完了の取り込みを削除しました。"
+          }
+        }
+      }
+    },
+    "Rename": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "名前を変更"
+          }
+        }
+      }
+    },
+    "Reset stopped: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "削除を中止しました: %@"
+          }
+        }
+      }
+    },
+    "Restore": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "復元"
+          }
+        }
+      }
+    },
+    "Restore This Backup?": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このバックアップを復元しますか？"
+          }
+        }
+      }
+    },
+    "In Files, choose a backup from On My iPhone or On My iPad. If it is stored elsewhere, copy it onto this device first.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルアプリで「このiPhone内」または「このiPad内」からバックアップを選んでください。別の場所にある場合は、先に端末内へコピーしてください。"
+          }
+        }
+      }
+    },
+    "Restore from Backup…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップから復元…"
+          }
+        }
+      }
+    },
+    "Restore needs an empty Archive, and yours still holds items. Emptying Trash is part of that. To start over from this backup, use Delete My Archive… above first.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "復元には空のアーカイブが必要ですが、まだ項目が残っています。ゴミ箱を空にすることも必要です。このバックアップからやり直すには、先に上の「自分のアーカイブを削除…」を実行してください。"
+          }
+        }
+      }
+    },
+    "Restore or permanently delete items from the list.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一覧から項目を復元するか、完全に削除できます。"
+          }
+        }
+      }
+    },
+    "Restore stopped after writing %lld folders and %lld files. Those items are still in your archive, so restoring again needs an empty archive: use Delete My Archive… in Settings first. %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダ%lld件とファイル%lld件を書き込んだ時点で復元を停止しました。書き込み済みの項目はアーカイブに残っています。復元をやり直すには空のアーカイブが必要なので、先に設定の「自分のアーカイブを削除…」を実行してください。%@"
+          }
+        }
+      }
+    },
+    "Restore stopped: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "復元を停止しました：%@"
+          }
+        }
+      }
+    },
+    "Restored %lld folders and %lld files.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダ%lld件とファイル%lld件を復元しました。"
+          }
+        }
+      }
+    },
+    "Restoring…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "復元中…"
+          }
+        }
+      }
+    },
+    "SHA-256": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SHA-256"
+          }
+        }
+      }
+    },
+    "Select": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "選択"
+          }
+        }
+      }
+    },
+    "Select a Section": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "セクションを選択してください"
+          }
+        }
+      }
+    },
+    "Select an item to see it here.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "項目を選択すると、ここに表示されます。"
+          }
+        }
+      }
+    },
+    "Separate tag levels with a single slash, with a name on both sides.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグの階層は1つのスラッシュで区切り、両側に名前を入力してください。"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定"
+          }
+        }
+      }
+    },
+    "Settings… (⌘,)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "設定…（⌘,）"
+          }
+        }
+      }
+    },
+    "Show Browser": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブラウザを表示"
+          }
+        }
+      }
+    },
+    "Shared Text": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有されたテキスト"
+          }
+        }
+      }
+    },
+    "Share…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "共有…"
+          }
+        }
+      }
+    },
+    "Sign in to iCloud and allow ArchiveLeaf to access your private archive.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloudにサインインし、ArchiveLeafによるプライベートアーカイブへのアクセスを許可してください。"
+          }
+        }
+      }
+    },
+    "Size": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "サイズ"
+          }
+        }
+      }
+    },
+    "Sort": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "並べ替え"
+          }
+        }
+      }
+    },
+    "Sort By": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "並べ替え方法"
+          }
+        }
+      }
+    },
+    "Source Modified": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "元ファイルの更新日時"
+          }
+        }
+      }
+    },
+    "Source Modified Date": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "元ファイルの更新日時"
+          }
+        }
+      }
+    },
+    "Stop": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "停止"
+          }
+        }
+      }
+    },
+    "Supported (%lld)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "対応ファイル（%lld）"
+          }
+        }
+      }
+    },
+    "Tag": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグ"
+          }
+        }
+      }
+    },
+    "Tag Could Not Be Saved": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグを保存できませんでした"
+          }
+        }
+      }
+    },
+    "Tag Name": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグ名"
+          }
+        }
+      }
+    },
+    "Tag Not Found": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグが見つかりません"
+          }
+        }
+      }
+    },
+    "Tags": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タグ"
+          }
+        }
+      }
+    },
+    "Text": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テキスト"
+          }
+        }
+      }
+    },
+    "That item could not be read.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "その項目を読み取れませんでした。"
+          }
+        }
+      }
+    },
+    "The backup contains a missing or unsafe file.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップに、欠落したファイルまたは安全でないファイルが含まれています。"
+          }
+        }
+      }
+    },
+    "The backup manifest is too large.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バックアップのmanifestが大きすぎます。"
+          }
+        }
+      }
+    },
+    "The bookmark does not contain a URL.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブックマークにURLが含まれていません。"
+          }
+        }
+      }
+    },
+    "There are no items in this folder.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このフォルダには項目がありません。"
+          }
+        }
+      }
+    },
+    "There was nothing to add.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "追加できるものがありませんでした。"
+          }
+        }
+      }
+    },
+    "These records never finished importing and cannot be recovered. Completed files and folders are not affected.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "これらのレコードは取り込みが完了しておらず、復元できません。完了済みのファイルやフォルダには影響しません。"
+          }
+        }
+      }
+    },
+    "This input cannot be stored as an archive item.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この入力はアーカイブ項目として保存できません。"
+          }
+        }
+      }
+    },
+    "This is not a valid ArchiveLeaf backup package.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有効な ArchiveLeaf バックアップパッケージではありません。"
+          }
+        }
+      }
+    },
+    "This is the last step. Nothing here can be recovered, on this device or any other.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "これが最後の確認です。この端末でも他の端末でも、元に戻せません。"
+          }
+        }
+      }
+    },
+    "This PDF could not be opened.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このPDFは開けませんでした。"
+          }
+        }
+      }
+    },
+    "This permanently deletes every ArchiveLeaf folder, file, and stored asset from iCloud. This cannot be undone on any device.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloudに保存されたArchiveLeafのすべてのフォルダ、ファイル、アセットを完全に削除します。どの端末からも元に戻せません。"
+          }
+        }
+      }
+    },
+    "This permanently removes every item in Trash and its stored content from iCloud. This cannot be undone.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱内のすべての項目と保存内容をiCloudから完全に削除します。この操作は取り消せません。"
+          }
+        }
+      }
+    },
+    "This removes the item and its stored content from iCloud. A folder deletion also removes everything inside it. This cannot be undone.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この項目と保存内容をiCloudから削除します。フォルダを削除すると、その中のすべての項目も削除されます。この操作は取り消せません。"
+          }
+        }
+      }
+    },
+    "This video cannot be played on this device.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このビデオはこのデバイスでは再生できません。"
+          }
+        }
+      }
+    },
+    "Title (Optional)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タイトル（任意）"
+          }
+        }
+      }
+    },
+    "Top of Folders": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダの最上位"
+          }
+        }
+      }
+    },
+    "Trash": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱"
+          }
+        }
+      }
+    },
+    "Trash Deletion": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱からの削除"
+          }
+        }
+      }
+    },
+    "Trash Is Empty": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱は空です"
+          }
+        }
+      }
+    },
+    "Trash Operation Failed": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ゴミ箱の操作に失敗しました"
+          }
+        }
+      }
+    },
+    "Try Again": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "再試行"
+          }
+        }
+      }
+    },
+    "URL": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "URL"
+          }
+        }
+      }
+    },
+    "Unfavorite": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お気に入り解除"
+          }
+        }
+      }
+    },
+    "Unknown error": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "不明なエラー"
+          }
+        }
+      }
+    },
+    "Unsorted Files": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未整理"
+          }
+        }
+      }
+    },
+    "Unsorted Is Empty": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "未整理は空です"
+          }
+        }
+      }
+    },
+    "Usage": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使用量"
+          }
+        }
+      }
+    },
+    "Video Could Not Be Played": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ビデオを再生できませんでした"
+          }
+        }
+      }
+    },
+    "View As": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "表示形式"
+          }
+        }
+      }
+    },
+    "Writes %lld folders and %lld files into your Archive.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フォルダ%lld件とファイル%lld件をアーカイブへ書き込みます。"
+          }
+        }
+      }
+    },
+    "Writes a backup back into an empty Archive. It does not merge with, or replace, items you already have.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "空のアーカイブへバックアップを書き戻します。既存の項目との統合や置き換えは行いません。"
+          }
+        }
+      }
+    },
+    "Zoom In": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "拡大"
+          }
+        }
+      }
+    },
+    "Zoom Out": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "縮小"
+          }
+        }
+      }
+    },
+    "iCloud Is Unavailable": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iCloudを利用できません"
+          }
+        }
+      }
+    },
+    "“%@” does not match its recorded checksum.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「%@」が記録されたチェックサムと一致しません。"
+          }
+        }
+      }
+    },
+    "“%@” does not match its recorded size.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「%@」が記録されたサイズと一致しません。"
+          }
+        }
+      }
+    },
+    "“%@” is an archive. Expand it first, then import the resulting folder.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「%@」は圧縮ファイルです。先に展開してから、できたフォルダを取り込んでください。"
+          }
+        }
+      }
+    },
+    "“%@” is removed from every file carrying it. The files themselves keep everything else.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "「%@」は、付いているすべてのファイルから外されます。ファイル自体はそのまま残ります。"
+          }
+        }
+      }
+    },
+    "ファイルを取り込む…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルを取り込む…"
+          }
+        }
+      }
+    },
+    "ファイルを取り込む… (⇧⌘I)": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルを取り込む…（⇧⌘I）"
+          }
+        }
+      }
+    },
+    "Privacy": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プライバシー"
+          }
+        }
+      }
+    },
+    "Lock Shelf": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本棚をロック"
+          }
+        }
+      }
+    },
+    "Unlock": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ロックを解除"
+          }
+        }
+      }
+    },
+    "Locked": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ロック中"
+          }
+        }
+      }
+    },
+    "Open your shelf": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "本棚を開く"
+          }
+        }
+      }
+    },
+    "Opens with Face ID, or your device passcode.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Face ID または端末のパスコードで開きます。"
+          }
+        }
+      }
+    },
+    "Opens with Touch ID, or your login password.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touch ID またはログインパスワードで開きます。"
+          }
+        }
+      }
+    },
+    "Opens with Touch ID, or your device passcode.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touch ID または端末のパスコードで開きます。"
+          }
+        }
+      }
+    },
+    "Opens with your login password.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ログインパスワードで開きます。"
+          }
+        }
+      }
+    },
+    "Opens with your device passcode.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "端末のパスコードで開きます。"
+          }
+        }
+      }
+    },
+    "This Mac has no login password set. Set one in System Settings to lock your shelf.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この Mac にはログインパスワードが設定されていません。本棚をロックするには、システム設定で設定してください。"
+          }
+        }
+      }
+    },
+    "This device has no passcode set. Set one in Settings to lock your shelf.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この端末にはパスコードが設定されていません。本棚をロックするには、「設定」で設定してください。"
+          }
+        }
+      }
+    },
+    "Import Bookmarks": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブックマークを取り込む"
+          }
+        }
+      }
+    },
+    "Import from %@…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@から取り込む…"
+          }
+        }
+      }
+    },
+    "Importing bookmarks…": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブックマークを取り込み中…"
+          }
+        }
+      }
+    },
+    "Each app's bookmarks go into a folder of its own name, and its tags arrive beneath a tag of that name. Bookmarks already on your shelf are skipped, and notes, excerpts, and cover images are not imported.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "各アプリのブックマークは、そのアプリ名のフォルダに入り、タグも同じ名前のタグの下に付きます。すでに本棚にあるブックマークは取り込まれません。メモ、抜粋、カバー画像は取り込みません。"
+          }
+        }
+      }
+    },
+    "The export could not be opened: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出しファイルを開けませんでした：%@"
+          }
+        }
+      }
+    },
+    "Import stopped: %@": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "取り込みを停止しました：%@"
+          }
+        }
+      }
+    },
+    "Imported %lld bookmarks into %@.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%2$@へブックマーク%1$lld件を取り込みました。"
+          }
+        }
+      }
+    },
+    "Skipped %lld already on your shelf.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "すでに本棚にある%lld件は取り込みませんでした。"
+          }
+        }
+      }
+    },
+    "Skipped %lld without a usable web address.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "使えるWebアドレスがない%lld件は取り込みませんでした。"
+          }
+        }
+      }
+    },
+    "%lld could not be stored:": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld件を保存できませんでした："
+          }
+        }
+      }
+    },
+    "The export could not be read as text.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出しファイルをテキストとして読み取れませんでした。"
+          }
+        }
+      }
+    },
+    "The export contains no bookmarks.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出しファイルにブックマークがありません。"
+          }
+        }
+      }
+    },
+    "This file is not an export from that app.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このファイルは、そのアプリの書き出しファイルではありません。"
+          }
+        }
+      }
+    },
+    "The export exceeds the %@ limit.": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "書き出しファイルが上限の%@を超えています。"
+          }
+        }
+      }
+    },
+    "Privacy Policy": {
+      "localizations": {
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "プライバシーポリシー"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

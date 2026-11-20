@@ -1,0 +1,17 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "NSFaceIDUsageDescription" : {
+      "comment" : "Shown by the system the first time the shelf asks for Face ID.",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ArchiveLeaf は本棚を開くために Face ID を使用します。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

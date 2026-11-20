@@ -1,0 +1,6 @@
+// Shared build settings for every target. Signing is per developer: copy
+// Developer.xcconfig.example to Developer.xcconfig and set your own team there.
+// Developer.xcconfig is ignored by Git and optional, so the project still opens
+// and builds for the simulator without it.
+
+#include? "Developer.xcconfig"
